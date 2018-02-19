@@ -1,0 +1,4 @@
+- hosts: raspberry-pi
+  roles:
+    - apt
+    - sys
